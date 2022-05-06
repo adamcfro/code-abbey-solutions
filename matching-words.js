@@ -1,7 +1,7 @@
 /**
  * This function takes an input string and counts how many times each word
  * in the string is used. Words used more than once are alphabetized and 
- * returned in sorted order.
+ * returned in an array in sorted order.
  * 
  * @param {String} str - A string parameter
  * @returns {Array} - Returns an array of sorted strings
