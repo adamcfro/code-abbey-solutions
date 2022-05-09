@@ -1,7 +1,7 @@
 /**
  * This function checks whether brackets in a string are in the correct order.
  * 
- * @param {String} str - A string parameter
+ * @param {String} str - A string parameter containing a variety of brackets
  * @returns {Boolean} - Returns true if the brackets are in order
  */
 function matchingBrackets (str) {
