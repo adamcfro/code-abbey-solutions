@@ -1,6 +1,7 @@
 /**
  * This function calculates how many years it will take for a starting amount
- * of money to reach a target amount of money given an annual interest rate.
+ * of money to reach a target amount of money given an annual interest rate. 
+ * Returns the number of years required to reach target.
  * 
  * @param {Number} start - Starting amount of money
  * @param {Number} target - Target amount of money
