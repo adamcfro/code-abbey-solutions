@@ -4,7 +4,7 @@
  * numbers together, and returns a string of the result of all dice throws.
  * 
  * @param  {...number} args - Any amount of numbers
- * @returns - Returns a string representation of dice throws
+ * @returns {string} - Returns a string representation of dice throws
  */
 function doubleDiceRoll (...args) {
   let returnValues = [];
