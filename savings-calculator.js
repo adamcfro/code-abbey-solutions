@@ -3,10 +3,10 @@
  * of money to reach a target amount of money given an annual interest rate. 
  * Returns the number of years required to reach target.
  * 
- * @param {Number} start - Starting amount of money
- * @param {Number} target - Target amount of money
- * @param {Number} interest - Interest rate
- * @returns {Number} - Returns the count of years needed to reach target
+ * @param {number} start - Starting amount of money
+ * @param {number} target - Target amount of money
+ * @param {number} interest - Interest rate
+ * @returns {number} - Returns the count of years needed to reach target
  */
 function savingsCalculator (start, target, interest) {
   let years = 0;
